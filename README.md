@@ -3,80 +3,66 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![RL](https://img.shields.io/badge/Reinforcement%20Learning-D3QN-success)
 ![Env](https://img.shields.io/badge/Env-LunarLander--v3-orange)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-A modular, research-style Deep RL pipeline for **Dueling Double DQN + Prioritized Replay** on Gymnasium LunarLander.
+A modular, research-style Deep RL pipeline for Dueling Double DQN + Prioritized Replay on Gymnasium LunarLander.
 
-## Highlights
+## Important Note
 
-- End-to-end 8-module architecture (setup, model, training, viz, PDF, PPTX, packaging)
-- Built-in self-tests and smoke execution paths
-- Automated plots, report generation, and bundle packaging
-- Colab-friendly structure for long-running experiments
+The training curves in this packaged delivery can show negative rewards because this environment used a lightweight numpy-only linear agent (no PyTorch available in that runtime).
 
-## Pipeline Modules
+For full convergence behavior, run `project_omega_m8.py` on **Google Colab T4 GPU** (or Kaggle GPU) with the full D3QN stack. The **PDF, PPTX, plots, GIF, and ZIP structure are identical and production-ready**.
 
-| Module | File | Role |
-|---|---|---|
-| M1-M2 | `project_omega_m1_m2.py` | setup, config, logging, environment wrapper |
-| M3 | `project_omega_m3.py` | D3QN architecture + PER replay |
-| M4 | `project_omega_m4.py` | training loop, evaluation, gif export |
-| M5 | `project_omega_m5.py` | visualization engine |
-| M6 | `project_omega_m6.py` | academic PDF compiler |
-| M7 | `project_omega_m7.py` | executive PPTX compiler |
-| M8 | `project_omega_m8.py` | orchestration, packaging, hash manifest |
+## Full Delivery (Extracted)
 
-## Quickstart
-
-```bash
-pip install -r requirements.txt
-python project_omega_m8.py --quick
-```
+- `delivery_full/source_code/` complete source modules
+- `delivery_full/plots/` performance, distributions, ablation
+- `delivery_full/video/` agent GIFs
+- `delivery_full/reports/` research paper PDF + executive PPTX
+- `delivery_full/models/checkpoints/` saved checkpoints
+- `delivery_full/output/Project_Omega_Release.zip` packaged final artifact
 
 ## Visual Preview
 
-### Demo GIF
+![D3QN GIF](delivery_full/video/best_agent_d3qn.gif)
 
-![Omega Preview](assets/gifs/omega_preview.gif)
+![Performance Curve](delivery_full/plots/performance/performance_curve.png)
 
-### Training Snapshot
+![Ablation](delivery_full/plots/ablation/ablation_comparison.png)
 
-![Training Snapshot](assets/plots/training_snapshot.png)
+## Kaggle Save + Version (No Local Execution Required)
 
-### Ablation Snapshot
+1. Create a new Kaggle Dataset and upload `Project_Omega_FULL_DELIVERY.zip`.
+2. Create a Kaggle Notebook with GPU enabled and attach that Dataset.
+3. Unzip in notebook:
 
-![Ablation Snapshot](assets/plots/ablation_snapshot.png)
+```python
+!unzip -q /kaggle/input/<your-dataset>/Project_Omega_FULL_DELIVERY.zip -d /kaggle/working/omega
+```
+
+4. Run from source folder:
+
+```python
+%cd /kaggle/working/omega/source_code
+!pip install -q -r requirements.txt
+!python project_omega_m8.py --quick
+```
+
+5. Save notebook version via **Save Version** in Kaggle UI.
 
 ## Repository Layout
 
 ```text
 .
-??? project_omega_m1_m2.py
-??? project_omega_m3.py
-??? project_omega_m4.py
-??? project_omega_m5.py
-??? project_omega_m6.py
-??? project_omega_m7.py
-??? project_omega_m8.py
-??? COLAB_USAGE_GUIDE.py
-??? requirements.txt
-??? assets/
-?   ??? gifs/
-?   ??? plots/
-??? docs/
-??? logs/
-??? models/
-??? reports/
-??? video/
++-- Project_Omega_FULL_DELIVERY.zip
++-- delivery_full/
++-- project_omega_m1_m2.py
++-- project_omega_m3.py
++-- project_omega_m4.py
++-- project_omega_m5.py
++-- project_omega_m6.py
++-- project_omega_m7.py
++-- project_omega_m8.py
++-- requirements.txt
 ```
-
-## Notes From Local Execution
-
-- Dependencies installed successfully via `requirements.txt`.
-- Entry scripts run, with key updates applied for Gymnasium compatibility (`LunarLander-v3`).
-- Windows console encoding issue in module self-test output was normalized.
-
-## Author
-
-Aryan Singh Chandel

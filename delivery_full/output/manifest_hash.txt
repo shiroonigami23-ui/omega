@@ -1,0 +1,1801 @@
+========================================================================
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+PROJECT OMEGA -- ARTEFACT INTEGRITY MANIFEST
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
+
+Archive   : Project_Omega_Release.zip
+Size      : 10,524,952 bytes  (10.525 MB)
+Algorithm : SHA-256
+Digest    : 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Generated : 2026-04-30 23:06:58 UTC
+Author    : Aryan Singh Chandel
+Pipeline  : Project Omega -- D3QN Research Pipeline
+
+VERIFICATION
+------------
+Linux/macOS:
+    sha256sum Project_Omega_Release.zip
+    # Expected: 7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338
+
+Python:
+    import hashlib
+    h = hashlib.sha256(open('Project_Omega_Release.zip','rb').read()).hexdigest()
+    assert h == '7c63b09bb8da7ed5fa5705698fcf3731b3e269e193744538e2517139fc16f338'
+    print('Integrity check PASSED')
+
+=
