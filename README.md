@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="delivery_full/video/best_agent_d3qn.gif" alt="Project Omega" width="70%">
+<img src="assets/omega-anim.gif" alt="Project Omega" width="100%">
 
 # 🚀 Project Omega
 
@@ -18,9 +18,13 @@
 
 ---
 
+<p align="center"><img src="assets/hero.png" alt="Project Omega art" width="49%"> <img src="assets/lab-dashboard.png" alt="Project Omega art" width="49%"></p>
+
 ## 📸 Preview
 
 <p align="center"><img src="assets/showcase.gif" alt="Project Omega showcase" width="85%"></p>
+
+<p align="center"><img src="delivery_full/video/best_agent_d3qn.gif" alt="Project Omega preview" width="85%"></p>
 
 ## 📖 Overview
 
