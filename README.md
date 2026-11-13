@@ -2,8 +2,6 @@
 
 <img src="delivery_full/video/best_agent_d3qn.gif" alt="Project Omega" width="70%">
 
-<sub>The trained D3QN agent landing — recorded by the pipeline itself</sub>
-
 # 🚀 Project Omega
 
 ### End-to-end D3QN research pipeline on LunarLander — from training to paper, slides and release
