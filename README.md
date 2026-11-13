@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.gif" alt="Project Omega animated banner" width="100%">
+<img src="delivery_full/video/best_agent_d3qn.gif" alt="Project Omega" width="70%">
+
+<sub>The trained D3QN agent landing — recorded by the pipeline itself</sub>
 
 # 🚀 Project Omega
 
@@ -21,8 +23,6 @@
 ## 📸 Preview
 
 <p align="center"><img src="assets/showcase.gif" alt="Project Omega showcase" width="85%"></p>
-
-<p align="center"><img src="delivery_full/video/best_agent_d3qn.gif" alt="Project Omega preview" width="85%"></p>
 
 ## 📖 Overview
 
