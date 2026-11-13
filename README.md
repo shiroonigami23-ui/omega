@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Project Omega banner" width="100%">
+<img src="assets/banner.gif" alt="Project Omega animated banner" width="100%">
 
 # 🚀 Project Omega
 
@@ -20,11 +20,9 @@
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="delivery_full/video/best_agent_d3qn.gif" alt="preview" width="45%">
-  <img src="delivery_full/plots/performance/performance_curve.png" alt="preview" width="45%">
-  <img src="delivery_full/plots/ablation/ablation_comparison.png" alt="preview" width="45%">
-</p>
+<p align="center"><img src="assets/showcase.gif" alt="Project Omega showcase" width="85%"></p>
+
+<p align="center"><img src="delivery_full/video/best_agent_d3qn.gif" alt="Project Omega preview" width="85%"></p>
 
 ## 📖 Overview
 
@@ -201,13 +199,13 @@ See [CHANGELOG.md](CHANGELOG.md) for the release history.
 
 ## 📄 License
 
-Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
+Distributed under the **MIT** license. See [LICENSE](LICENSE) for details.
 
 ## 👤 Author
 
 **Aryan Singh Chandel** (Shiro)
 
-[![GitHub](https://img.shields.io/badge/GitHub-shiroonigami23-ui-181717?style=flat-square&logo=github)](https://github.com/shiroonigami23-ui)
+[![GitHub](https://img.shields.io/badge/GitHub-shiroonigami23--ui-181717?style=flat-square&logo=github)](https://github.com/shiroonigami23-ui)
 
 <div align="center">
 
